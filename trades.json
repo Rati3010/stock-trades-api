@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 1,
+    "type": "buy",
+    "user_id": 23,
+    "symbol": "ABX",
+    "shares": 30,
+    "price": 134
+  },
+  {
+    "id": 2,
+    "type": "buy",
+    "user_id": 27,
+    "symbol": "USD",
+    "shares": 35,
+    "price": 1234
+  }
+]
